@@ -9,7 +9,9 @@ async function main() {
     await getEslintPulls();
     await ramdaFanPulls();
     await ramdaHighPulls();
+    await ramdaLensPulls();
+    await ramdaLogicPulls();
+    await ramdaGitPulls();
+    await ramdaAmgularPulls();
+    await ramdaRepl();
 };
-
-
-main();
