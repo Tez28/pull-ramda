@@ -20,4 +20,4 @@ const repoController = {
     
 }
 
-// module.exports = repoController;
+module.exports = repoController;

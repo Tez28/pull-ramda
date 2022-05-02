@@ -24,7 +24,7 @@ async function getAllRepos() {
         {
             type: "input",
             name: "gitHub",
-            message: "App initiated?"
+            message: "App initiated"
         }
     ])
     //console.log(data.gitHub)
@@ -36,8 +36,8 @@ async function getAllRepos() {
 
         request.data.forEach((item) => {
             repoNames.push(item.name);
-            console.log(item.name);
-        });
+            console.log(item.name)
+        })
     }
     test();
 }
@@ -51,7 +51,7 @@ async function getPulls() {
             message: "Too see all ramda repos press enter",
         }
     ])
-    console.log(data.pulls)
+    //console.log(data.pulls)
 
     repoNames.forEach(repo => {
         const url = `https://api.github.com/repos/ramda/${repo}/pulls`
