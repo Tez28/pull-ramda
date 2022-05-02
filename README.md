@@ -14,7 +14,9 @@ Users will clone the repo and install the dependencies for the application. use 
 
 ## App Image
 
-![Screen Shot 2022-05-02 at 7 08 33 PM](https://user-images.githubusercontent.com/92187341/166340910-a549adb9-7778-4821-9275-9715ba5c2e61.png)
+![Screen Shot 2022-05-02 at 7 44 28 PM](https://user-images.githubusercontent.com/92187341/166343499-66415318-dc4c-45d4-bfff-4e2f33fabc08.png)
+
+
 
 
 
